@@ -39,15 +39,15 @@ I am accountable for the results of my decisions and actions.
 
 An officer may discharge a firearm under any of the following circumstances:
 
-* When discharged in a safe manner at an approved range.
+- When discharged in a safe manner at an approved range.
 
-* When used for the humane destruction (euthanasia) of a seriously injured animal, or to dispatch any animal 
-that poses an immediate threat to any person or other animal, and other dispositions are impractical. 
+- When used for the humane destruction (euthanasia) of a seriously injured animal, or to dispatch any animal
+  that poses an immediate threat to any person or other animal, and other dispositions are impractical.
 
-* When based on the totality of the circumstances, deadly force is objectively reasonable and necessary to defend
-against an imminent threat of death or serious bodily injury to the officer or to another person. 
+- When based on the totality of the circumstances, deadly force is objectively reasonable and necessary to defend
+  against an imminent threat of death or serious bodily injury to the officer or to another person.
 
-* When based on the totality of the circumstances, deadly force is necessary to effect the capture of, or prevent the 
-escape or rescue of, a suspect whom the officer has reasonable cause to believe has committed a felony that threatened 
-or resulted in death or serious bodily injury, and the officer reasonably believes that the person will cause death or
-serious bodily injury to another unless immediately apprehended. 
+- When based on the totality of the circumstances, deadly force is necessary to effect the capture of, or prevent the
+  escape or rescue of, a suspect whom the officer has reasonable cause to believe has committed a felony that threatened
+  or resulted in death or serious bodily injury, and the officer reasonably believes that the person will cause death or
+  serious bodily injury to another unless immediately apprehended.
