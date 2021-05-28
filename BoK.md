@@ -51,3 +51,13 @@ An officer may discharge a firearm under any of the following circumstances:
   escape or rescue of, a suspect whom the officer has reasonable cause to believe has committed a felony that threatened
   or resulted in death or serious bodily injury, and the officer reasonably believes that the person will cause death or
   serious bodily injury to another unless immediately apprehended.
+
+GIT CMMNDS
+
+git clone https://github.com/Mmahe522/Notes-.git
+
+git push/pull https://github.com/Mmahe522/Notes-.git
+
+git commit -a -m "message" 
+
+git status 
