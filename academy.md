@@ -358,6 +358,16 @@ PROBABLE CAUSE (Section L 2803)(BoK):
 "Reasonable cause to believe" is a phrase that describes the amount of evidence - facts observed, information from others, personal
 knowledge - that would be sufficient to lead an ordinary and prudent person to reasonably believe that a crime is occurring or has occurred and that the person to be arrested committed such a crime or is committing a crime.
 
+Reasonable Suspicion:
+A specific set of describable facts or circumstances that would cause a reasonable officer, of like training and experience, to suspect that:
+
+- Suspicious activity is afoot, and
+- The person to be detained is connected to that activity, and
+- The activity may be related to a crime.
+
+Probable Cause:
+A specific set of describable facts or circumstances that would cause a reasonable person of ordinary care and prudence (or a reasonable officer, of like training and experience), to entertain an honest and strong belief that the person to be arrested is guilty of a crime.
+
 835 PC: METHOD OF ARREST
 
 - An arrest is made by actual restraint of the person or by submission to the custody of the officer.
@@ -414,5 +424,3 @@ knowledge - that would be sufficient to lead an ordinary and prudent person to r
 - Willful and unlawful
 - use or force or fear
 - upon the person of another
-
-Hellochanges
